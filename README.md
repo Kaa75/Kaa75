@@ -41,7 +41,7 @@ I keep infrastructure running smoothly by day and ship full-stack products on th
 
 **Ops & Cloud**
 
-<img src="https://skillicons.dev/icons?i=linux,bash,aws,docker,kubernetes,jenkins,githubactions,terraform,nginx&perline=9" alt="Ops and cloud" />
+<img src="https://skillicons.dev/icons?i=linux,bash,aws,docker,kubernetes,githubactions,terraform,nginx&perline=9" alt="Ops and cloud" />
 
 **Languages**
 
