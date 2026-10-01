@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1f6feb,100:8957e5&height=220&section=header&text=Karim%20Abboud&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=DevOps%20%C2%B7%20Full-Stack%20%C2%B7%20Cybersecurity&descSize=20&descAlignY=60&animation=fadeIn" alt="Karim Abboud banner" />
 
 <a href="https://github.com/Kaa75">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=DevOps+Engineer+%40+Murex;Automating+infra+across+envs+%26+regions;Full-stack+dev+%C2%B7+React+%C2%B7+Next.js+%C2%B7+AWS;CCE+graduate+%C2%B7+AUB+%C2%B7+Beirut%2C+Lebanon" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=DevOps+Engineer+%40+Murex;Automating+infra+across+envs+%26+regions;Full-stack+dev+%C2%B7+React+%C2%B7+Next.js+%C2%B7+AWS;CSE+graduate+%C2%B7+AUB+%C2%B7+Beirut%2C+Lebanon" alt="Typing animation" />
 </a>
 
 <br/>
