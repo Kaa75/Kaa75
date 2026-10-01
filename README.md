@@ -26,7 +26,7 @@ const karim = {
   location: "Beirut, Lebanon",
   education: "B.E. Computer & Communications Engineering, AUB",
   past: ["Frontend Engineering Intern @ Anghami", "2 yrs freelance full-stack"],
-  daily: ["Linux", "automation scripts", "infra across environments & regions"],
+  daily: ["Linux", "Automation", "infra across environments & regions"],
   interests: ["cloud", "cybersecurity", "AI agents", "game AI"],
 };
 ```
